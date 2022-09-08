@@ -10,7 +10,7 @@ A page to showcase my HTML and CSS
 * CSS
 
 ## Website
-file:///C:/Users/willi/OneDrive/Desktop/Portfolio/Index.html
+https://willyum863.github.io/Miss_Congeniality_Portfolio/
 
 
 ## Contribution
